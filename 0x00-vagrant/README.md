@@ -1,0 +1,1 @@
+this project is about installing virtual box and vagrant and some other settings
